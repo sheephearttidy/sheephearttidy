@@ -36,12 +36,12 @@
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&locale=cn" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&locale=cn" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheephearttidy&show_icons=true&theme=radical&locale=cn" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheephearttidy&layout=compact&theme=radical&locale=cn" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&locale=zh_Hans" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sheephearttidy&theme=radical&locale=zh_Hans" alt="GitHub Streak" />
 </p>
 
 ---
@@ -49,12 +49,12 @@
 ## 🔗 找到我
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-black?style=flat-square&logo=github" alt="GitHub" />
+  <a href="https://github.com/sheephearttidy">
+    <img src="https://img.shields.io/badge/GitHub-sheephearttidy-black?style=flat-square&logo=github" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Email-暂无-lightgrey?style=flat-square&logo=gmail" alt="Email" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sheephearttidy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
