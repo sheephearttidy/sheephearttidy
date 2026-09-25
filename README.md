@@ -1,62 +1,51 @@
-<!-- GitHub Profile README -->
-
-<h1 align="center">Hi 👋, 我是 Jay</h1>
-<h3 align="center">双非本科院校 | 计算机科学与技术专业 | C/C++ · Python · Java · Web</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,flask,js,css,bash,html,vim,git,mysql,pycharm,vscode,linux,docker,nginx,nodejs&perline=6&theme=light" alt="My Skills" />
+<h1 align="center">
+  <a href="https://github.com/sheephearttidy">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F74700&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Jay" alt="Typing SVG" />
   </a>
-</p>
-
----
-
-## 🧑‍💻 关于我
-
-- 🎓 双非本科院校，专业：计算机科学与技术
-- 💻 主要语言：C / C++ / Python / Java / JavaScript
-- 🌐 Web 开发：Flask / Node.js / HTML5 / CSS
-- 🗄️ 数据库：MySQL
-- 🛠️ 开发工具：PyCharm / VS Code / Vim / Git
-- 🐧 系统与运维：Linux / Shell / Docker / Nginx
-- 🌱 正在学习：持续更新中
-- 🎯 目标：用项目证明自己，持续打磨技术
-- 📫 联系方式：暂无
-
-> 双非不是终点，持续学习才是。
-
----
-
-## 🛠️ 技术栈
+</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,flask,js,css,bash,html,vim,git,mysql,pycharm,vscode,linux,docker,nginx,nodejs&perline=6&theme=light" alt="My Skills" />
-</p>
-
----
-
-## 📊 GitHub 数据
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheephearttidy&show_icons=true&theme=radical&locale=cn" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheephearttidy&layout=compact&theme=radical&locale=cn" alt="Top Languages" />
+  <em>计算机科学与技术 · 全栈开发学习中</em>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sheephearttidy&theme=radical&locale=zh_Hans" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,flask,js,css,bash,html,vim,git,mysql,pycharm,vscode,linux,docker,nginx,nodejs&perline=9&theme=light" />
 </p>
 
 ---
 
-## 🔗 找到我
+### 👤 About Me
+
+```yaml
+name: Jay
+education: 计算机科学与技术
+languages: [C, C++, Python, Java, JavaScript]
+web: [Flask, Node.js, HTML5, CSS3]
+database: MySQL
+tools: [PyCharm, VS Code, Vim, Git]
+ops: [Linux, Shell, Docker, Nginx]
+learning: 持续更新中...
+motto: "双非不是终点，持续学习才是"
+```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sheephearttidy&show_icons=true&theme=radical&locale=cn&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheephearttidy&layout=compact&theme=radical&locale=cn&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sheephearttidy&theme=radical&locale=zh_Hans&hide_border=true" />
+</p>
+
+---
 
 <p align="center">
   <a href="https://github.com/sheephearttidy">
-    <img src="https://img.shields.io/badge/GitHub-sheephearttidy-black?style=flat-square&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-sheephearttidy-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Email-暂无-lightgrey?style=flat-square&logo=gmail" alt="Email" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheephearttidy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sheephearttidy&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
