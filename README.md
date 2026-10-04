@@ -22,9 +22,9 @@
 
 ### 👤 About Me
 
-<table align="center">
-  <tr>
-    <td width="500">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sheephearttidy&theme=radical&row=2&column=5&margin-w=8&margin-h=8&no-frame=true" alt="Trophies" />
+</p>
 
 ```yaml
 name: Jay
@@ -38,13 +38,6 @@ learning: 持续更新中...
 motto: "双非不是终点，持续学习才是"
 ```
 
-    </td>
-    <td width="200" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=sheephearttidy&theme=radical&row=3&column=3&margin-w=10&margin-h=10&no-frame=true" alt="Trophies" />
-    </td>
-  </tr>
-</table>
-
 <br>
 
 ---
@@ -52,12 +45,12 @@ motto: "双非不是终点，持续学习才是"
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sheephearttidy&show_icons=true&theme=radical&locale=cn&hide_border=true&ring_color=F74700" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sheephearttidy&show_icons=true&theme=radical&locale=cn&hide_border=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheephearttidy&layout=compact&theme=radical&locale=cn&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sheephearttidy&theme=radical&locale=zh_Hans&hide_border=true&fire=F74700" />
+  <img src="https://streak-stats.demolab.com?user=sheephearttidy&theme=radical&locale=zh_Hans&hide_border=true" />
 </p>
 
 <br>
