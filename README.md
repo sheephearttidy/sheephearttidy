@@ -10,9 +10,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,py,java,flask,js,ts,css,bash,html,vim,git,mysql,pycharm,vscode,linux,docker,nginx,nodejs&perline=10&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,py,java,flask,js,ts,css,bash,html,vim,git,mysql,pycharm,vscode,linux,docker,nginx,nodejs&perline=10&theme=light" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,flask,js,ts,css,bash,html,vim,git,mysql,pycharm,vscode,linux,docker,nginx,nodejs&perline=10&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,python,java,flask,js,ts,css,bash,html,vim,git,mysql,pycharm,vscode,linux,docker,nginx,nodejs&perline=10&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,python,java,flask,js,ts,css,bash,html,vim,git,mysql,pycharm,vscode,linux,docker,nginx,nodejs&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,flask,js,ts,css,bash,html,vim,git,mysql,pycharm,vscode,linux,docker,nginx,nodejs&perline=10&theme=light" />
   </picture>
 </div>
 
