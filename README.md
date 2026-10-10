@@ -31,8 +31,8 @@ name: Jay
 education: 计算机科学与技术
 languages: [C, C++, Python, Java, JavaScript, TypeScript]
 web: [Flask, Node.js, HTML5, CSS3]
-database: MySQL
-tools: [PyCharm, VS Code, Vim, Git ,CMake ,Docker ,Nginx ,Node.js ,TypeScript ,HTML5 ,CSS3]
+database: [MySQL,Redis]
+tools: [PyCharm, VS Code, Vim, Git ,CMake ,Docker ,Nginx ,Node.js ,]
 ops: [Linux, Shell, Docker, Nginx]
 learning: 持续更新中...
 motto: "双非不是终点，持续学习才是"
