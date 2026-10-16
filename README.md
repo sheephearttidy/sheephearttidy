@@ -35,7 +35,7 @@
 > 「双非不是终点，持续学习才是。」
 
 ```yaml
-name: Jay
+name: sheephearttidy
 major: 计算机科学与技术
 status: learning and building
 languages: [C, C++, Python, Java, JavaScript, TypeScript]
@@ -107,7 +107,7 @@ learning: [Algorithms, System Design, AI/Agent, Web Development]
 ## 🌱 Motto
 
 > 代码不是为了“会写”，而是为了“能解决问题”。
->
+> 用代码改变世界！
 > 我相信，真正能成长的，不只是技术，而是持续学习和不断迭代的态度。
 
 ---
