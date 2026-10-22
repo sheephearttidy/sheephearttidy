@@ -1,123 +1,142 @@
-<h1 align="center">
-  <a href="https://github.com/sheephearttidy">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=F26B3A&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I'm+Jay%20%F0%9F%91%8B;Keep+Coding+%F0%9F%92%BB;Keep+Learning+%F0%9F%93%9A;Build+with+curiosity+%F0%9F%A7%91" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
 
-<p align="center">
-  <em>计算机科学与技术 · 持续学习，持续构建</em>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1200&color=F26B3A&center=true&vCenter=true&random=false&width=760&lines=Hi%2C+I%27m+Jay+%F0%9F%91%8B;Write+C%2C+ship+with+Python+%F0%9F%90%8D;%E6%8A%8A%E6%83%B3%E6%B3%95%E5%86%99%E6%88%90%E8%83%BD%E8%B7%91%E7%9A%84%E4%B8%9C%E8%A5%BF+%E2%9C%A8;Keep+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,html,css,flask,nodejs,git,linux,vscode,docker,nginx,mysql&perline=7&theme=dark" alt="Tech Stack" />
-</p>
+**计算机科学与技术 · 从命令行小工具写到带后台的整站**
 
-<p align="center">
-  <a href="https://github.com/sheephearttidy">
-    <img src="https://img.shields.io/badge/GitHub-sheephearttidy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Algorithms%20%7C%20DevOps-orange?style=for-the-badge" alt="Focus" />
-  <img src="https://komarev.com/ghpvc/?username=sheephearttidy&label=Profile%20Views&color=F74700&style=flat-square" alt="Profile views" />
-</p>
+<a href="https://github.com/sheephearttidy">
+  <img src="https://img.shields.io/badge/GitHub-sheephearttidy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/Focus-C%20%7C%20Python%20%7C%20Web-orange?style=for-the-badge" alt="Focus" />
+<img src="https://komarev.com/ghpvc/?username=sheephearttidy&label=Profile%20Views&color=F74700&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
 
-## 👤 About Me
+## 👋 关于我
 
-我是一名热爱编程与持续学习的开发者，正在不断扩展自己的技术栈与工程能力。我的兴趣主要集中在：
+在读计算机科学与技术。喜欢把脑子里的想法做成真的能跑起来的东西：从一个命令行小工具，到一个有登录、有后台、有统计、能上线的完整站点。
 
-- C / C++ / Python / Java / JavaScript
-- Web 开发与后端服务构建
-- Linux 与开发环境配置
-- 数据库与接口设计
-- 学习 AI / Agent / 自动化开发方式
+比起刷完一整套教程，我更相信「先写出来，再修好它」——所以我这些仓库里的版本号都长得离谱，每一次 `vX.Y.Z` 背后都是一次真实的踩坑和修复。
 
 > 「双非不是终点，持续学习才是。」
 
-```yaml
-name: sheephearttidy
-major: 计算机科学与技术
-status: learning and building
-languages: [C, C++, Python, Java, JavaScript, TypeScript]
-backend: [Flask, Node.js, REST API]
-frontend: [HTML5, CSS3, JavaScript]
-database: [MySQL, Redis]
-ops: [Linux, Shell, Docker, Nginx, Git]
-tools: [VS Code, Vim, PyCharm, CMake]
-learning: [Algorithms, System Design, AI/Agent, Web Development]
-```
+| | |
+|---|---|
+| 🔭 正在做 | [`mysite`](https://github.com/sheephearttidy/mysite)（Flask + SQLite 个人站后台） · [`CBuild`](https://github.com/sheephearttidy/CBuild)（自举的 C/C++ 构建工具） |
+| 🌱 正在学 | 算法与数据结构、C++ / Java 补课、AI Agent 工作流 |
+| 💬 可以聊 | C 语言基础、Flask 轻量后台、Nginx 部署、Linux 日常运维 |
+| 🧭 原则 | 能离线就离线，能零依赖就零依赖，改完要能验证 |
 
 ---
 
-## 🧠 Current Focus
+## 🚀 精选项目
 
-- 提升算法与数据结构能力
-- 学习更稳健的后端设计与工程实践
-- 探索 AI / Agent 相关开发方式
-- 打磨代码质量与项目结构设计
-- 持续输出有价值的实践项目
+| 项目 | 是什么 | 技术栈 |
+|:--|:--|:--|
+| [**mysite**](https://github.com/sheephearttidy/mysite) | 贴纸风学生个人主页 + 后台管理系统。前台 7 个页面手写 HTML/CSS/JS 零框架，后台 Flask + SQLite 在线改内容 | `Python` `Flask` `SQLite` `JavaScript` `Nginx` |
+| [**CBuild**](https://github.com/sheephearttidy/CBuild) | 零配置 C/C++ 构建工具，一条 `cbuild build` 替代 CMake/Makefile 样板，并且**用它自己构建自己** | `C11` `CMake` `POSIX/Win32` |
+| [**HowMuchGIUse**](https://github.com/sheephearttidy/HowMuchGIUse) | 轻量网络流量监控：实时速率、日/月/小时统计、多网卡，数据全存本地 SQLite，不联网不上传 | `Python` `psutil` `SQLite` |
+| [**MiniGrade**](https://github.com/sheephearttidy/MiniGrade) | 命令行学生成绩管理器，为吃透 C 语言核心知识点（指针、函数指针、union、位域、可变参数）而写的练习项目 | `C` `Makefile` |
+
+<details>
+<summary><b>几个我觉得值得一提的细节</b></summary>
+
+<br />
+
+**mysite** —— 一个「越写越像产品」的练手站，41 次提交迭代到 `v2.5.0`：
+
+- 前台纯手搓，零框架零依赖；后台可在线编辑技能树、项目墙、时间线、公告、留言板，改内容不用碰代码
+- 安全上是认真做的：图形验证码（纯标准库 SVG 生成、一次性、答案哈希存储）、TOTP 两步验证（RFC 6238 手写实现）、CSP nonce、登录限速与 IP 封锁、敏感操作审计留痕
+- 自建访问统计 + 「来访地图」：IP 只用于解析城市，**只存城市不存 IP**，SVG 世界地图上钉贴纸星星
+- PWA、深色模式、节日特效，GitHub Actions 做前端一致性检查（导航一致、资源存在、`?v=` 哈希与文件 sha256 对得上）
+
+**CBuild** —— 写它是为了不再写 `CMakeLists.txt`：
+
+- 一份 `scaffold.toml` 管完项目配置，编译器自动探测（`gcc` → `clang` → `cc`）
+- 增量编译是真的增量：用 `gcc -MMD` 生成头文件依赖，改一个公共头只重编真正包含它的翻译单元
+- 并行编译（`-j N`，Windows 用 `CreateProcess`、Unix 用 `fork`+`exec`）
+- 所有公开函数返回语义化错误码而不是 `-1`；`#ifdef _WIN32` 只出现在一个文件里
+- **自举**：CMake 只在第一次编译出 `cbuild` 时用一次，之后 `cbuild build` 编译它自己的源码
+
+</details>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 技术栈
 
-### Languages
+**主力**（都有上面这些公开项目为证）
+
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-</p>
-
-### Backend & Web
-<p>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
-### Data & Tools
+**Web 与后端**
+
 <p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="gunicorn" src="https://img.shields.io/badge/gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+</p>
+
+**工具与部署**
+
+<p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+  <img alt="systemd" src="https://img.shields.io/badge/systemd-000000?style=flat-square&logo=systemd&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
+
+**还在路上**：Java · MySQL · Redis · Docker · Node.js —— 在学，暂时还没有能拿出来看的公开项目。
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sheephearttidy&show_icons=true&theme=radical&locale=cn&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheephearttidy&layout=compact&theme=radical&locale=cn&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sheephearttidy&theme=radical&locale=zh_Hans&hide_border=true" alt="GitHub Streak" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sheephearttidy&show_icons=true&theme=radical&locale=cn&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheephearttidy&layout=compact&theme=radical&locale=cn&hide_border=true&langs_count=8" alt="Top Languages" />
 
----
+<br />
 
-## 🌱 Motto
+<img src="https://streak-stats.demolab.com?user=sheephearttidy&theme=radical&locale=zh_Hans&hide_border=true" alt="GitHub Streak" />
 
-> 代码不是为了“会写”，而是为了“能解决问题”。
-> 用代码改变世界！
-> 我相信，真正能成长的，不只是技术，而是持续学习和不断迭代的态度。
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
+## 🌱 现在与以后
 
-<p align="center">
-  <a href="https://github.com/sheephearttidy">
-    <img src="https://img.shields.io/badge/Thanks%20for%20visiting-My%20GitHub-ff6b6b?style=for-the-badge" alt="Thanks" />
-  </a>
-</p>
+- 把 `mysite` 的测试和部署流程再收一收，让它从「能跑」变成「敢改」
+- 给 `CBuild` 补上库目标类型（`type = "lib"`）和 `cbuild test`
+- 补算法与系统设计的基础，把学到的东西继续写成能跑的项目
+- 继续用 AI / Agent 的方式改自己的开发流程
+
+> 代码不是为了「会写」，而是为了「能解决问题」。
+> 真正能成长的，不只是技术，而是持续学习和不断迭代的态度。
+
+---
+
+<div align="center">
+
+<a href="https://github.com/sheephearttidy">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-My%20GitHub-ff6b6b?style=for-the-badge" alt="Thanks" />
+</a>
+
+<br /><br />
+
+[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
+
+</div>
