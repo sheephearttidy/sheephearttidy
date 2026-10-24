@@ -74,7 +74,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
@@ -99,21 +99,6 @@
 </p>
 
 **还在路上**：Java · MySQL · Redis · Docker · Node.js —— 在学，暂时还没有能拿出来看的公开项目。
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sheephearttidy&show_icons=true&theme=radical&locale=cn&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheephearttidy&layout=compact&theme=radical&locale=cn&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=sheephearttidy&theme=radical&locale=zh_Hans&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ---
 
